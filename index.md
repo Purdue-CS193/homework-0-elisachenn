@@ -15,6 +15,12 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+# test
+## test
+- test
+1. test
+2. test
+
 - Bulleted
 - List
 
@@ -22,6 +28,10 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+
+**test**
+_test_
+`test`
 
 [Link](url) and ![Image](src)
 ```
